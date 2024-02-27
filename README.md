@@ -14,7 +14,7 @@ A page to sporadically post samples and reflections of what I am working on.
 
 ## Philosophical Waxings
 
-### Thoughts on Link's Awakening DX (created Feb. 22, 2024)
+### Thoughts on Link's Awakening DX (created February 2024)
 
 Link's Awakening DX was the second Zelda game I have ever played, the first being LoZ Ocarina of Time on the N64. Despite the major graphics differences
 between the 3d television experience, being able to carry my adventures on Koholint Island with me made this one of my all-time favorite games. Even today, nearly
@@ -49,3 +49,13 @@ I am surprised by the amount of narration pointing you in the right direction. I
 From looking through the various texts in the LADX disassembly, it shouldn’t be difficult to edit these to simply describe things rather than provide hints. For example, upon opening the chest containing the Tail Key, we are told which dungeon it opens and pointed in its direction. It would be far more exciting if upon lifting the key from its chest, we are only given a short description of what LINK is seeing.
 
 Sidenote: There are many online discussions about the nature of the island and the mystery of the Windfish, but I like to think that Malin is secretly at work here trying to slow your progress, but not being malevolent enough to directly harm the player. The monsters of the game don’t want Link to awaken the fish and destroy the dream — their existence — but what about Marin and the other villagers? Maybe she was with Talin and egged him to take a bite, turn into a raccoon, in a passive attempt at slowing the player.
+
+**Day 2: Feb 23 00:10:00 — 00:20:00**
+
+Now that I have unlocked the Tail Cave I bolted from my restart point, which was the Witch’s hut and not where I actually saved, all the way to the first dungeon of the game. A few things that really jumped out in this first dungeon were: the poker card monsters, the eye statues in the entry room, and then I started thinking about why this dungeon exists in the first place.
+
+Before ranting, I don’t think that these games need to have a coherent narrative, I just think it is fun mental gymnastics seeing what kind of coherent system can be applied to them. That being said, why are there dungeons on the island if the Windfish is dreaming it. If the Windfish wants to wake up, there probably would not be any dungeons. If the Windfish doesn’t want to wake up, it could well be that we are encountering a demiurge who has created their own lesser reality and seeks to defend it by creating labyrinth barriers with monsters to keep people from destroying the illusion. Of the Windfish is asleep and its dreams are plagued by Nightmare which exists external to the Windfish.
+
+If Nightmare comes into the dream from outside the consciousness of the Windfish we have to ask ourselves where does it come from? Is it somehow related to Ganon? How does Link actually end up within a dream? Or is the entire story and setting AND ultimate goal created in the mind of a dazed and unconscious Link? Does the Windfish even exist or is it little more than a pipe dream of Link’s following a lightning strike?
+
+If we look to the history of philosophy we have a long history of the creation of “windeggs” which are mentioned by Socrates in the Platonic dialogues. Maybe that is where the Windfish hatched from.
